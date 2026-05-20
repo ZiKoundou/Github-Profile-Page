@@ -1,7 +1,7 @@
-<h1>Hello, I'm Zion!👋</h1>
+<h1>Hello, I'm Zion!</h1>
   <a href="https://www.linkedin.com/in/zion-koundou/">Game Developer</a> focused on gameplay systems and Unity (C#)
 
-<h2>🎮 Featured Projects:</h2>
+<h2> Featured Projects:</h2>
 
 - <b> [Mirror Magica](https://github.com/lidiammp/ProjectAura) **DOOM… but you hug the demons.**</b> (Unity/C#)
   - <b> Role: </b> Sole Programmer (Team of 6)
@@ -10,9 +10,9 @@
   • Arena Combat  
   • State Driven Enemy AI  
   - <b> Links </b>   
-  🔗 Repo: https://github.com/lidiammp/ProjectAura   
-  🎥 Gameplay Video: https://www.youtube.com/watch?v=cS6AMaC4nSg&t=1s  
-  🕹️ itch.io: https://gameheads.itch.io/mirror-magica
+     Repo: https://github.com/lidiammp/ProjectAura   
+     Gameplay Video: https://www.youtube.com/watch?v=cS6AMaC4nSg&t=1s  
+   itch.io: https://gameheads.itch.io/mirror-magica
 
 
 <h2>🔗 Other Links</h2>
